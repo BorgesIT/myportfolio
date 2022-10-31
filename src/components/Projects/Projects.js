@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio personal"
               description="Mi portafolio personal, construído con HTML, CSS, y JavaScript, combinado con NodeJS para el Backend, y los frameworks de ReactJS y Bootstrap para el Frontend, utilizando mi paleta de colores para conservar mi identidad, haciendo un modelo intuitivo e innovador."
-              ghLink=""
+              ghLink="https://github.com/BorgesIT/myportfolio"
               demoLink="https://borgesit.com/"
             />
           </Col>
@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="DApp Staking de NFT"
               description="Diseño de una DApp para Staking de la colección NFT Bitk2Water del proyecto Bitk2Coin totalmente funcional; conectada con ReactJS y JavaScript, a SmartContracts de solidity, invocando las funciones por medio de las ABI en formato JSON y las respectivas dependencias de la web3."
-              ghLink=""
+              ghLink="https://github.com/BorgesIT/stakingNFT"
               demoLink="https://bitk2water.tech/"
             />
           </Col>
