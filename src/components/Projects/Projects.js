@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="CRUD con Python"
               description="CRUD creado con Python, Flask y MySQL, para descarga de ebooks, con login para administrador. También puede modificarse para crear tienda de artículos, con la misma integración en la base de datos."
-              ghLink=""
+              ghLink="https://github.com/BorgesIT/crudPython"
               // demoLink=""              
             />
           </Col>
