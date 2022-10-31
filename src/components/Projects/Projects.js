@@ -47,7 +47,7 @@ function Projects() {
               title="CRUD con Python"
               description="CRUD creado con Python, Flask y MySQL, para descarga de ebooks, con login para administrador. También puede modificarse para crear tienda de artículos, con la misma integración en la base de datos."
               ghLink=""
-              // demoLink="https://editor.soumya-jit.tech/"              
+              // demoLink=""              
             />
           </Col>
 
